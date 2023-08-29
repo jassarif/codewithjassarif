@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/codewithjassarif/static/css/main.4045a11e.css",
+    "main.js": "/codewithjassarif/static/js/main.415b0aa6.js",
+    "static/js/787.28cb0dcd.chunk.js": "/codewithjassarif/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/codewithjassarif/index.html",
+    "main.4045a11e.css.map": "/codewithjassarif/static/css/main.4045a11e.css.map",
+    "main.415b0aa6.js.map": "/codewithjassarif/static/js/main.415b0aa6.js.map",
+    "787.28cb0dcd.chunk.js.map": "/codewithjassarif/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4045a11e.css",
+    "static/js/main.415b0aa6.js"
+  ]
+}
